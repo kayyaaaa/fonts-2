@@ -1,0 +1,28 @@
+@font-face {
+    font-family:"pont 1";
+    src: url("font/JacquesFrancoisShadow-Regular.ttf");
+}
+@font-face {
+    font-family: "pont 2";
+    src: url("font/OriginalSurfer-Regular.ttf");
+}
+@font-face {
+    font-family:"pont3";
+    src: url("font/Play-Regular.ttf");
+}
+
+@font-face {
+    font-family: "pont4";
+    src: url("font/Play-Bold.ttf");
+}
+.h1{
+    font-family:"pont 1" ;
+}
+.p1{
+    font-family: "pont 2";
+    
+}
+.span1{
+    font-family: "pont3";
+    
+}
